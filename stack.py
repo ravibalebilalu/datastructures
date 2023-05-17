@@ -48,6 +48,7 @@ print("Is box empty : ")
 print(box.is_empty())
  
 print("push some items in box :")
+box.push("AI")
 box.push( "R")
 box.push("python")
 box.push( "c++")
